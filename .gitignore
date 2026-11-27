@@ -1,0 +1,13 @@
+# Archivos de registros y capturas de red
+*.evtx
+*.pcap
+*.pcapng
+
+# Archivos sensibles
+.env
+*.key
+*.pfx
+
+# Prácticas pendientes de finalizar
+/Hardening/03-Administrative-Delegation/
+/Hardening/05-Endpoint-Security/
